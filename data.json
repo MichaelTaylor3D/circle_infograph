@@ -1,0 +1,58 @@
+{
+ "name": "Kansas",
+ "children": [
+  {
+   "name": "College of Agriculture",
+   "children": [
+     {
+      "name": "Agronomy",
+      "children": [
+            {"name": "Animal Sciences and Industry", "nasf": 3812, "priority": 1},
+      		{"name": "Southwest Area Office", "nasf": 6714, "priority": 2},
+      		{"name": "Facilities Management", "nasf": 743, "priority": 2}
+      ]
+     },
+      {"name": "Animal Sciences and Industry", "nasf": 3812, "priority": 3},
+      {"name": "Southwest Area Office", "nasf": 6714, "priority": 1},
+      {"name": "Facilities Management", "nasf": 743, "priority": 4}
+   	]
+   },
+     {
+   "name": "College of Agriculture",
+   "children": [
+     {
+      "name": "Agronomy",
+      "children": [
+            {"name": "Animal Sciences and Industry", "nasf": 3812, "priority": 1},
+      		{"name": "Southwest Area Office", "nasf": 6714, "priority": 2},
+      		{"name": "Facilities Management", "nasf": 743, "priority": 2}
+      ]
+     },
+      {"name": "Animal Sciences and Industry", "nasf": 3812, "priority": 3},
+      {"name": "Southwest Area Office", "nasf": 6714, "priority": 1},
+      {"name": "Facilities Management", "nasf": 743, "priority": 4}
+   	]
+   },
+   {
+   "name": "College of Architecture, Planning and Design",
+   "children": [
+      {"name": "Architecture", "nasf": 1500, "priority": 1},
+      {"name": "Animal Sciences and Industry", "nasf": 2500, "priority": 3},
+      {"name": "Southwest Area Office", "nasf": 100, "priority": 5},
+      {"name": "Facilities Management", "nasf": 743, "priority": 3},
+      {"name": "Interior Architecture and Product Design", "nasf": 100, "priority": 2}
+    ]
+   },
+   {
+   "name": "College of Architecture, Planning and Design",
+   "children": [
+      {"name": "Architecture", "nasf": 1500, "priority": 1},
+      {"name": "Animal Sciences and Industry", "nasf": 2500, "priority": 4},
+      {"name": "Southwest Area Office", "nasf": 100, "priority": 5},
+      {"name": "Facilities Management", "nasf": 50, "priority": 1},
+      {"name": "Interior Architecture and Product Design", "nasf": 5000, "priority": 5}
+    ]
+   }
+  
+ ]
+}

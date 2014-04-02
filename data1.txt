@@ -1,0 +1,155 @@
+institution,primary_unit,secondary_unit,priority,nasf
+kansas,"College of Engineering, Forestry, and Natural Sciences",Mathematics and Statistics,1,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences",Physics and Astronomy,1,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences",Biological Sciences,1,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences",School of Earth Science & Environmental Sustainability,1,300
+Instituion,College of Health and Human Services,College of Health & Human Services,1,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences",Institute for Tribal Environmental Professionals,1,300
+Instituion,College of Health and Human Services,Dental Hygiene,2,300
+Instituion,College of Health and Human Services,Nursing,2,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences",Merriam-Powell Center for Environmental Research,2,300
+Instituion,College of Health and Human Services,Communication Sciences & Disorders,2,300
+Instituion,Senior Vice President for Extended Campuses,Extended Learning,2,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences",Ecosystem Science & Society Center,2,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences",Native American Cancer Prevention Outreach,2,300
+Instituion,Cline Library,Cline Library,2,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences",Electrical Engineering & Computer Science,2,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences",Mechanical Engineering,2,300
+Instituion,College of Health and Human Services,Physical Therapy & Athletic Training,2,300
+Instituion,Provost & Vice President for Academc Affairs,e-Learning Center,2,300
+Instituion,College of Arts and Letters,Comparative Cultural Studies,2,300
+Instituion,College of Arts and Letters,Theatre,2,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences","Civil Engineering, Construction Management, Environmental Engineering",2,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Recreation Services,2,300
+Instituion,Senior Vice President for Extended Campuses,Personalized Learning,2,300
+Instituion,College of Social and Behavioral Sciences,Ethnic Studies,2,300
+Instituion,College of Arts and Letters,School of Art,2,300
+Instituion,College of Arts and Letters,School of Music,3,300
+Instituion,College of Arts and Letters,English,3,300
+Instituion,College of Social and Behavioral Sciences,Psychology,3,300
+Instituion,Provost & Vice President for Academc Affairs,Honors,3,300
+Instituion,College of Social and Behavioral Sciences,College of Social & Behavioral Sciences,3,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences",Colorado Plateau Biodiversity Center,3,300
+Instituion,College of Social and Behavioral Sciences,Civic Center Institute,3,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Enrollment Management and Student Affairs,3,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Merchandising,3,300
+Instituion,Information Technology Services,Student Technology Center,3,300
+Instituion,Provost & Vice President for Academc Affairs,"Curriculum, Academic Design &  Assessment",3,300
+Instituion,Provost & Vice President for Academc Affairs,Liberal Studies,3,300
+Instituion,Provost & Vice President for Academc Affairs,Student Success Center,3,300
+Instituion,College of Education,College of Education,3,300
+Instituion,College of Arts and Letters,Performing Arts,3,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences",Engineering and Professional Programs,3,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences",Institute for Sustainable Energy Solutions,3,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences",Microbial Genetics & Genomics,3,300
+Instituion,College of Social and Behavioral Sciences,Criminology & Criminal Justice,3,300
+Instituion,College of Social and Behavioral Sciences,Native American Studies,3,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Dubois Conference,3,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Food Service,3,300
+Instituion,Information Technology Services,Information Technology Services,3,300
+Instituion,Vice President for Research,Office of Regulatory Compliance,3,300
+Instituion,College of Health and Human Services,Health Sciences,3,300
+Instituion,Provost & Vice President for Academc Affairs,Academic Transition Programs,3,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences",CEFNS,3,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Financial Aid,3,300
+Instituion,Office of the President,Office of the President,3,300
+Instituion,College of Social and Behavioral Sciences,Applied Indigenous Studies,3,300
+Instituion,Vice President for Finance and Administration,Facilities Building Maintenance,3,300
+Instituion,College of Arts and Letters,Global Languages & Cultures,3,300
+Instituion,College of Arts and Letters,Philosophy,3,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences",Chemistry and Biochemistry,3,300
+Instituion,College of Education,Educational Specialties,3,300
+Instituion,College of Education,America Reads,4,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Office of the Vice President for Enrollment Management & Student Affairs,4,300
+Instituion,Provost & Vice President for Academc Affairs,Faculty Development,4,300
+Instituion,Vice President and General Counsel,Vice President & General Counsel,4,300
+Instituion,Vice President for Institutional Effectiveness,University Budget Office,4,300
+Instituion,Vice President for Research,Office of Grant and Contract Services,4,300
+Instituion,College of Social and Behavioral Sciences,Sociology and Social Work,4,300
+Instituion,Provost & Vice President for Academc Affairs,University College,4,300
+Instituion,Vice President for Finance and Administration,Finance and Administration,4,300
+Instituion,College of Social and Behavioral Sciences,Institute for Human Development,4,300
+Instituion,College of Arts and Letters,College of Arts and Letters,4,300
+Instituion,College of Social and Behavioral Sciences,Domestic Violence Institute,4,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Student Accounts,4,300
+Instituion,Provost & Vice President for Academc Affairs,Provost & Vice President of Academic Affairs,4,300
+Instituion,College of Social and Behavioral Sciences,Politics & International Affairs,4,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Educational Support Services,4,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Student Learning Center,4,300
+Instituion,Vice President for Finance and Administration,Physical Plant,4,300
+Instituion,College of Arts and Letters,Faculty Emeritus,4,300
+Instituion,College of Arts and Letters,Martin-Springer Institute,4,300
+Instituion,College of Education,COE: Division of Student Services,4,300
+Instituion,College of Education,Teaching and Learning,4,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Registrar,4,300
+Instituion,Graduate College,Graduate College,4,300
+Instituion,Provost & Vice President for Academc Affairs,Faculty Ombudsman Office,4,300
+Instituion,Provost & Vice President for Academc Affairs,Vice Provost of Academic Affairs,4,300
+Instituion,Vice President for Government Affairs & Business Partnerships,Government Affairs,4,300
+Instituion,Vice President for Institutional Effectiveness,Institutional Effectiveness,4,300
+Instituion,Vice President for Research,Avian Cognition Lab,4,300
+Instituion,Vice President for Research,Greenhouse,4,300
+Instituion,Vice President for Research,Idea Lab,4,300
+Instituion,Vice President for Research,Landscape Conservation Initative,4,300
+Instituion,Vice President for Research,Landsward Institute,4,300
+Instituion,Vice President for Research,Vice President of Research,4,300
+Instituion,Vice President for Research,Vivarium,4,300
+Instituion,Vice President for University Advancement,Office of Public Affairs,4,300
+Instituion,College of Social and Behavioral Sciences,Women's and Gender Studies,4,300
+Instituion,Provost & Vice President for Academc Affairs,Center for International Education,4,300
+Instituion,College of Education,Educational Psychology,4,300
+Instituion,College of Social and Behavioral Sciences,"Geography, Planning & Recreation",4,300
+Instituion,The W.A. Franke College of Business,Franke College of Business,4,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Campus Health Services,4,300
+Instituion,College of Education,Educational Leadership,4,300
+Instituion,Provost & Vice President for Academc Affairs,Air Force - ROTC,4,300
+Instituion,Provost & Vice President for Academc Affairs,Army - ROTC,4,300
+Instituion,College of Social and Behavioral Sciences,Anthropology,4,300
+Instituion,Vice President for University Advancement,University Advancement,4,300
+Instituion,College of Arts and Letters,History,5,300
+Instituion,The W.A. Franke College of Business,Hotel and Restaurant Mgt,5,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Residence Life,5,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences",Ecological Restoration Institute,5,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences",Forestry,5,300
+Instituion,College of Social and Behavioral Sciences,School of Communication,5,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Shuttle Services,5,300
+Instituion,The W.A. Franke College of Business,Alliance Bank Business Outreach Center,5,300
+Instituion,College of Social and Behavioral Sciences,Journalism,5,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Disability Resources,5,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Upward Bound,5,300
+Instituion,Senior Vice President for Extended Campuses,NAU-TV,5,300
+Instituion,Vice President and Chief of Staff,Affirmative Action,5,300
+Instituion,Vice President and Chief of Staff,Vice President & Chief of Staff,5,300
+Instituion,Vice President for Finance and Administration,Office of Economic Development,5,300
+Instituion,Vice President for Finance and Administration,Postal Service,5,300
+Instituion,Vice President for Finance and Administration,Skydome,5,300
+Instituion,Vice President for University Advancement,KNAU Radio (NPR),5,300
+Instituion,College of Arts and Letters,Ceramics,5,300
+Instituion,The W.A. Franke College of Business,Business Administration,5,300
+Instituion,The W.A. Franke College of Business,Computer Info Systems,5,300
+Instituion,The W.A. Franke College of Business,Economics,5,300
+Instituion,The W.A. Franke College of Business,Finance,5,300
+Instituion,The W.A. Franke College of Business,Management,5,300
+Instituion,The W.A. Franke College of Business,Marketing,5,300
+Instituion,College of Social and Behavioral Sciences,Electronic Media and Film,5,300
+Instituion,College of Social and Behavioral Sciences,MA in Sustainable Communities,5,300
+Instituion,Vice President for Finance and Administration,Human Resources,5,300
+Instituion,Vice President for Finance and Administration,Printing Services,5,300
+Instituion,Vice President for University Advancement,University Marketing,5,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Admissions,5,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Central Ticket Office,5,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Parking Services,5,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Student & Faculty Counseling,5,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Student Health Center,5,300
+Instituion,Provost & Vice President for Academc Affairs,NAU Art Museum,5,300
+Instituion,Vice President for Finance and Administration,Accounts Payable,5,300
+Instituion,Vice President for Finance and Administration,Internal Audit,5,300
+Instituion,Vice President for Finance and Administration,Property Administration,5,300
+Instituion,Vice President for Finance and Administration,Purchasing & Contract Services,5,300
+Instituion,Vice President for Finance and Administration,University Services,5,300
+Instituion,"College of Engineering, Forestry, and Natural Sciences",Center for Science Teaching and Learning,5,300
+Instituion,The W.A. Franke College of Business,Accounting,5,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Peer Jack's Mentoring,5,300
+Instituion,Sr Vice President for Enrollment Mgmt & Student Affairs,Campus Services & Activities,5,300
+Instituion,Vice President for Finance and Administration,University Police,5,300
+Instituion,Intercollegiate Athletics,Athletics,5,300
